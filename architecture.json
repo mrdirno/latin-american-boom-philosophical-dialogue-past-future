@@ -1,0 +1,160 @@
+{
+  "book_id": "latin_american_boom_philosophical_dialogue_past_future",
+  "title": "The Palimpsest of Currents",
+  "tagline": "A young academic discovers a stone that records time's whispers, forcing him to join a century-spanning dialogue between the ghosts of the past and the architects of the future.",
+  "target_words": 70000,
+  "actual_words": 77186,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Time as a Palimpsest",
+    "The Haunting of History",
+    "The Ethics of Listening",
+    "The Latin American Boom as an Act of Translation"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Third Presence",
+      "words": 3216
+    },
+    {
+      "ch": 2,
+      "title": "The Rattling Tin Can",
+      "words": 3216
+    },
+    {
+      "ch": 3,
+      "title": "The New and Total Substance",
+      "words": 3216
+    },
+    {
+      "ch": 4,
+      "title": "The Whisper in the Archive",
+      "words": 3216
+    },
+    {
+      "ch": 5,
+      "title": "The Recipe for Time",
+      "words": 3216
+    },
+    {
+      "ch": 6,
+      "title": "Walking Anxieties",
+      "words": 3216
+    },
+    {
+      "ch": 7,
+      "title": "Breaking the Table",
+      "words": 3216
+    },
+    {
+      "ch": 8,
+      "title": "The Fossilized Whirlpool",
+      "words": 3216
+    },
+    {
+      "ch": 9,
+      "title": "The Background Hum",
+      "words": 3216
+    },
+    {
+      "ch": 10,
+      "title": "The Collective Terror",
+      "words": 3216
+    },
+    {
+      "ch": 11,
+      "title": "The Confluence",
+      "words": 3216
+    },
+    {
+      "ch": 12,
+      "title": "The Fading Ink",
+      "words": 3216
+    },
+    {
+      "ch": 13,
+      "title": "The Old Blood on the Stones",
+      "words": 3216
+    },
+    {
+      "ch": 14,
+      "title": "The Weak Bet",
+      "words": 3216
+    },
+    {
+      "ch": 15,
+      "title": "The Persistent Ghost",
+      "words": 3216
+    },
+    {
+      "ch": 16,
+      "title": "The Scraped Manuscript",
+      "words": 3216
+    },
+    {
+      "ch": 17,
+      "title": "The Shouting into the Din",
+      "words": 3216
+    },
+    {
+      "ch": 18,
+      "title": "The Ridges of Old Letters",
+      "words": 3216
+    },
+    {
+      "ch": 19,
+      "title": "The Pollen of History",
+      "words": 3216
+    },
+    {
+      "ch": 20,
+      "title": "The Scribe That Never Dies",
+      "words": 3216
+    },
+    {
+      "ch": 21,
+      "title": "The Warping Space",
+      "words": 3216
+    },
+    {
+      "ch": 22,
+      "title": "The Profoundly Confused Conversation",
+      "words": 3216
+    },
+    {
+      "ch": 23,
+      "title": "The Next Layer of Text",
+      "words": 3216
+    },
+    {
+      "ch": 24,
+      "title": "The Wager",
+      "words": 3216
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character 'listens' to a non-traditional archive—a forest, a city street, a patterned rug—and hears a specific, layered history.",
+      "Create a dialogue between a pragmatic engineer of the future and a guardian of the palimpsest, arguing over whether to build a new city or preserve an ancient, whispering site.",
+      "Imagine a chapter from the point of view of *El Libro de las Corrientes* itself. What does it feel as new 'text' is written upon it by the flow of time?",
+      "Write a letter from a young Gabriel García Márquez to Don Eliseo, responding to his claim that the Boom writers were 'just listening to the palimpsest.'"
+    ],
+    "technical": [
+      "Design a speculative interface for 'reading' a temporal palimpsest—a device or software that visualizes the bleed-through of historical layers into the present.",
+      "Propose a data structure or archival system inspired by the novel's themes: how would you store information so future layers don't erase, but converse with, past ones?"
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Jorge Luis Borges",
+      "Gabriel García Márquez",
+      "Walter Benjamin",
+      "Octavia Butler"
+    ]
+  },
+  "cover_prompt": "A young, intense academic in a worn tweed jacket, his face illuminated by an inner light, cradles a porous, dark river stone from which faint, spectral filaments of history and memory drift upward like ink in water, [Detailed Scene & Context: He stands at the confluence of a vast, timeless library and a nebulous, star-flecked void, where translucent figures—a 19th-century naturalist, a mid-century poet, and a futuristic cartographer—lean in from the edges, engaged in silent, urgent conversation. Stacks of books morph into river currents and architectural blueprints, blending Borgesian archives with magical realist landscapes], [Artistic Style & Medium: in the atmospheric, metaphysical style of Remedios Varo, blended with the textured, melancholic magic of Leonora Carrington and the architectural precision of Piranesi, rendered as a detailed oil painting with delicate glazes and ethereal sfumato], [Composition & Camera: book cover framing, a centered but dynamic composition where the stone is the focal point, using a dramatic low-angle shot to emphasize the towering, converging figures and the upward spiral of whispers], [Lighting & Color Palette: dramatic chiaroscuro lighting with a single source glowing from within the stone, casting long, symbolic shadows. A palette of sepia, deep indigo, burnt umber, and oxidized copper, with accents of spectral gold and ethereal blue for the whispering filaments], [Quality & Technical Enforcers: masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev]."
+}
